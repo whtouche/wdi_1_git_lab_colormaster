@@ -17,7 +17,17 @@ you can fix this. </p>
 ### Here's some help: ###
 <ol>
 <li>Fork this repo.</li>
-<li>Clone your newly forked repo to your local machine (from whatever folder you store your code in).</li>
+<li><p>Clone your newly forked repo to your local machine (from whatever folder you store your code in).</p>
+	You should get a filesystem that looks something like:
+
+	color-master-quiz
+          |
+          |
+    --------------------------
+    |       |        |       |
+  green   purple    red    unsorted
+
+</li>
 <li>Change into this newly cloned directory. You will be prompted if you want to continue. Type 'y' and hit enter.</li>
 <li>Start from the color-master-quiz directory (you should be dropped into it automatically). Now to repair the damage:</li>
 <li> <strong> Challange 1: Modifying Files </strong>
@@ -34,14 +44,14 @@ you can fix this. </p>
 <li> <strong> Challenge 2: Creating Files </strong>
 	<p> Follow the directions for each of the tasks below </p>
 		<ul>
-			<li>[ ] In your purple directory, create a file called 
+			<li><p>[ ] In your purple directory, create a file called </p>
 
-				```grape.txt```
+				<p>grape.txt</p>
 
-				In this new file, paste the following: 
+				<p>In this new file, paste the following: </p>
 
-				```I'm a grape!```
-				
+				<p>I'm a grape!</p>
+
 			</li>
 		</ul>
 
