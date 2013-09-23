@@ -35,9 +35,13 @@ you can fix this. </p>
 	<p> Follow the directions for each of the tasks below </p>
 		<ul>
 			<li>[ ] In your purple directory, create a file called 
+
 				```grape.txt```
+
 				In this new file, paste the following: 
+
 				```I'm a grape!```
+				
 			</li>
 		</ul>
 
