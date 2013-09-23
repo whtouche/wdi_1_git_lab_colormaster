@@ -44,11 +44,11 @@ you can fix this. </p>
 		<ul>
 			<li><p>[ ] In your purple directory, create a file called </p>
 
-				>>grape.txt
+				>    grape.txt
 
 				<p>In this new file, paste the following: </p>
 
-				>>I'm a grape!
+				>    I'm a grape!
 
 			</li>
 		</ul>
