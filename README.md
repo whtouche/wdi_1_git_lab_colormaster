@@ -48,7 +48,7 @@ you can fix this. </p>
         
         > grape.txt
      
-        in this file insert the text:
+		in this file insert the text:
 
         > I'm a grape!
         
