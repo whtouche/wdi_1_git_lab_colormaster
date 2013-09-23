@@ -23,35 +23,47 @@ you can fix this. </p>
 >     green   purple    red    unsorted
 
 ### Here's some help: ###
-<ol>
-<li>Fork this repo.</li>
-<li>Clone your newly forked repo to your local machine (from whatever folder you store your code in).</li>
-<li>Change into this newly cloned directory. You will be prompted if you want to continue. Type 'y' and hit enter.</li>
-<li>Start from the color-master-quiz directory (you should be dropped into it automatically). Now to repair the damage:</li>
-<li> <strong> Challange 1: Modifying Files </strong>
-	  <p>In each of the folders named after a color (ex. purple) there are some files. Somebody
-		has mischeviously erased the descriptions of each object! Change into each color directory and
-		open each file to fill in the names of each object and complete this challenge (all lower case).</p>
-		<ul>
-			<li>[ ] Fill in the blank in plum.txt in the purple directory</li>
-			<li>[ ] Fill in the blank tree.txt in green directory</li>
-			<li>[ ] Fill in the blanks in apple.txt and firetruck.txt in the red directory</li>
-		</ul>
-</li>
 
-<li> <strong> Challenge 2: Creating Files </strong>
-	<p> Follow the directions for each of the tasks below </p>
-		<ul>
-			<li><p>[ ] In your purple directory, create a file called </p>
+1. Fork this repo.
+2. Clone your newly forked repo to your local machine (from whatever folder you store your code in).
+3. Change into this newly cloned directory. You will be prompted if you want to continue. Type 'y' and hit enter.
+4. Start from the color-master-quiz directory (you should be dropped into it automatically). Now to repair the damage:
+5. <strong> Challange 1: Modifying Files </strong>
 
-				>    grape.txt
+    In each of the folders named after a color (ex. purple) there are some files. Somebody has mischeviously erased the descriptions of each object! Change into each color directory and open each file to fill in the names of each object and complete this challenge (all lower case).        
+    
+    a. Fill in the blank in plum.txt in the purple directory
+    
+    a. Fill in the blank tree.txt in green directory
+    
+    a. Fill in the blanks in apple.txt and firetruck.txt in the red director
+    
+6.  <strong> Challenge 2: Creating Directories and Files </strong>
 
-				<p>In this new file, paste the following: </p>
+     Follow the directions for each of the tasks below
 
-				>    I'm a grape!
+    a. Create a yellow directory
+    
+    b. In your purple directory, create a file called: 
+        
+        > grape.txt
+     
+        in this file insert the text:
 
-			</li>
-		</ul>
+        > I'm a grape!
+        
+    b. In your red directory, create a file called 
+       
+        > firetruck.txt
+     
+        in firetruck.txt file insert this firetruck:
 
-</li>
-</ol>
+        >     _,..=xxxxxxxxxxxx,
+        >     /L_Y.-"""""""""`,--n.
+        >     .--'[=======]|L]J: []\
+        >     |/ _ ''_ " " ||[ -_ 4 |
+        >     '-(_)-(_)----'v'-(_)--'
+
+7. <strong> Challenge 3: Moving Files Around </strong>
+    a. Change into your unsorted directory. Inside, you'll see a few items that have been removed from their folders. Go ahead and move them into their correct folders. 
+        * hint: remember the command to list all of the files in a directory? Maybe whoever did this added a '.' before a file to hide it in the unsorted folder.
