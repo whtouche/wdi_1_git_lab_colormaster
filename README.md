@@ -4,6 +4,10 @@
 cover all of the commands we learned in class. If you find yourself getting stuck on a certain step, let 
 an instructor know! </p>
 
+## A Few Keynotes ##
+
+<p> Commit often. We'd like to see at least one or two commits a challenge, but hey, we'd like it even better if you commited after completing every step! Commiting often is a great way of keeping yourself organized and writing good commit messages will save you tons of time down the road. </p>
+
 ## Some Background ##
 
 <p>You are the ColorMaster. You know your colors better than anybody else in the world... which is how you came
@@ -58,7 +62,7 @@ you can fix this. </p>
      
        in firetruck.txt file insert this firetruck:
 
-        >     _,..=xxxxxxxxxxxx,
+        >      _,..=xxxxxxxxxxxx,
         >     /L_Y.-"""""""""`,--n.
         >     .--'[=======]|L]J: []\
         >     |/ _ ''_ " " ||[ -_ 4 |
