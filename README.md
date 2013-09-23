@@ -16,18 +16,18 @@ you can fix this. </p>
 
 ### Here's some help: ###
 <ol>
-<li>1. Fork this repo.</li>
-<li>2. Clone your newly forked repo to your local machine (from whatever folder you store your code in).</li>
-<li>3. Change into this newly cloned directory. You will be prompted if you want to continue. Type 'y' and hit enter.</li>
-<li>3. Start from the color-master-quiz directory (you should be dropped into it automatically). Now to repair the damage:</li>
-<li>4. Challange 1: Modifying Files
-	- In each of the folders named after a color (ex. purple) there are some files. Somebody
+<li>Fork this repo.</li>
+<li>Clone your newly forked repo to your local machine (from whatever folder you store your code in).</li>
+<li>Change into this newly cloned directory. You will be prompted if you want to continue. Type 'y' and hit enter.</li>
+<li>Start from the color-master-quiz directory (you should be dropped into it automatically). Now to repair the damage:</li>
+<li> #### Challange 1: Modifying Files ####
+	  <p>In each of the folders named after a color (ex. purple) there are some files. Somebody
 		has mischeviously erased the descriptions of each object! Fill in the names to complete this
-		challenge (all lower case).
+		challenge (all lower case).</p>
 		<ul>
-			<li>[ ] Fix files in purple directory</li>
-			<li>[ ] Fix files in green directory</li>
-			<li>[ ] Fix files in the red folder</li>
+			<li>[ ] Fill in the blank in plum.txt in the purple directory</li>
+			<li>[ ] Fill in the blank tree.txt in green directory</li>
+			<li>[ ] Fill in the blanks in apple.txt and firetruck.txt in the red directory</li>
 		</ul>
 </li>
 </ol>
