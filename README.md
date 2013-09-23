@@ -20,12 +20,13 @@ you can fix this. </p>
 <li><p>Clone your newly forked repo to your local machine (from whatever folder you store your code in).</p>
 	You should get a filesystem that looks something like:
 
->	color-master-quiz
->          |
->          |
->    --------------------------
->    |       |        |       |
->  green   purple    red    unsorted
+</li>
+    color-master-quiz
+    >     |
+    >     |
+    >   --------------------------
+    >   |       |        |       |
+    > green   purple    red    unsorted
 
 </li>
 <li>Change into this newly cloned directory. You will be prompted if you want to continue. Type 'y' and hit enter.</li>
