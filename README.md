@@ -82,9 +82,11 @@ you can fix this. </p>
     
 8. <strong> Challenge 4: Take Out The Trash (Removing Files)</strong>
 
-    a. As you gaze upon your glorious work, colors gleaming under the blueish light of your computer screen at 4:00 in the morning, you notice some intruders. A few homeless .html files are lurking in the filesystem; the vandal must have littered them there. Use your knowledge of the command line to get rid of them.
+    a. Remove the unsorted folder. Than nasty vandal must have brought it with him to ruin your work!
+
+    b. As you gaze upon your glorious work, colors gleaming under the blueish light of your computer screen at 4:00 in the morning, you notice some intruders. A few homeless .html files are lurking in the filesystem; the vandal must have littered them there. Use your knowledge of the command line to get rid of them.
        
-       * hint: If you remember, there is a way to remove multiple .html files from a folder at once. 
+       * hint: If you remember, there is a way to remove multiple .html files from a folder at once.
        
 9. Now that you've cleaned everything up, make a final commit and push your work up to your github account.
 10. Make a pull request against the repo owned by the head of the ColorMaster Order® to show him the fine work you have done. 
