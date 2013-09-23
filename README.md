@@ -38,9 +38,7 @@ you can fix this. </p>
     
     a. Fill in the blank in plum.txt in the purple directory
     
-    a. Fill in the blank tree.txt in green directory
-    
-    a. Fill in the blanks in apple.txt and firetruck.txt in the red director
+    b. Fill in the blank tree.txt in green directory
     
 6.  <strong> Challenge 2: Add Your Souvenirs from Alaska (Creating Directories and Files) </strong>
 
@@ -67,6 +65,10 @@ you can fix this. </p>
         >     .--'[=======]|L]J: []\
         >     |/ _ ''_ " " ||[ -_ 4 |
         >     '-(_)-(_)----'v'-(_)--'
+
+       and the text: 
+
+        > I'm a firetruck!
 
 7. <strong> Challenge 3: Organize Your Items (Moving Files Around) </strong>
 
