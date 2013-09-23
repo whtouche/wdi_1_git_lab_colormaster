@@ -1,4 +1,4 @@
-# Colormaster Quiz #
+# ColorMaster Quiz #
 
 <p>This quiz will test, and help you better understand, the flow of control in bash and git. It's designed to 
 cover all of the commands we learned in class. If you find yourself getting stuck on a certain step, let 
@@ -6,9 +6,9 @@ an instructor know! </p>
 
 ## Some Background ##
 
-<p>You are the Colormaster. You know your colors better than anybody else in the world... which is how you came
-to be the Colormaster to begin with... which has only improved your mastery of colors. 
-You're basically the Gandalf of colors is what we're saying. Anyway, as the Colormaster
+<p>You are the ColorMaster. You know your colors better than anybody else in the world... which is how you came
+to be the ColorMaster to begin with... which has only improved your mastery of colors. 
+You're basically the Gandalf of colors is what we're saying. Anyway, as the ColorMaster
 it's your job to keep the colors straight! You've been camping in Alaska for the past nine months, 
 far, far away from your directories, and while you were been gone, someone has wreaked havoc on your filesystem.
 Colors have been de-sorted, mis-sorted, and entire directories are missing! It's a massacre! Luckily,
@@ -72,10 +72,14 @@ you can fix this. </p>
     b. Once you've finished with the above task, take a look in the red folder at 
     >    apple.txt 
 
-    Your Colormaster eyes notice that this is no red apple, it's GREEN! move it to the correct folder.  
+    Your ColorMaster eyes notice that this is no red apple, it's GREEN! move it to the correct folder.  
     
 8. <strong> Challenge 4: Take Out The Trash (Removing Files)</strong>
 
-    a. As you gaze upon your glorious work, colors gleaming under the blueish light of your computer screen, you notice some intruders. A few homeless .html files are lurking in the filesystem. Use your knowledge of the command line to get rid of them.
+    a. As you gaze upon your glorious work, colors gleaming under the blueish light of your computer screen at 4:00 in the morning, you notice some intruders. A few homeless .html files are lurking in the filesystem; the vandal must have littered them there. Use your knowledge of the command line to get rid of them.
        
        * hint: If you remember, there is a way to remove multiple .html files from a folder at once. 
+       
+9. Now that you've cleaned everything up, make a final commit and push your work up to your github account.
+10. Make a pull request against the repo owned by the head of the ColorMaster Order® to show him the fine work you have done. 
+
