@@ -4,7 +4,7 @@
 cover all of the commands we learned in class. If you find yourself getting stuck on a certain step, let 
 an instructor know! </p>
 
-## A Few Keynotes ##
+## Important Note ##
 
 <p> Commit often. We'd like to see at least one or two commits a challenge, but hey, we'd like it even better if you commited after completing every step! Commiting often is a great way of keeping yourself organized and writing good commit messages will save you tons of time down the road. </p>
 
