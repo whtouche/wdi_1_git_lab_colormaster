@@ -48,15 +48,15 @@ you can fix this. </p>
         
         > grape.txt
      
-		in this file insert the text:
+    c. In grape.txt, add the text:
 
         > I'm a grape!
         
-    b. In your red directory, create a file called 
+    d. In your red directory, create a file called 
        
         > firetruck.txt
      
-        in firetruck.txt file insert this firetruck:
+    e. In firetruck.txt file insert this firetruck:
 
         >     _,..=xxxxxxxxxxxx,
         >     /L_Y.-"""""""""`,--n.
