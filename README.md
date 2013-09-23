@@ -28,7 +28,6 @@ you can fix this. </p>
     >   |       |        |       |
     > green   purple    red    unsorted
 
-</li>
 <li>Change into this newly cloned directory. You will be prompted if you want to continue. Type 'y' and hit enter.</li>
 <li>Start from the color-master-quiz directory (you should be dropped into it automatically). Now to repair the damage:</li>
 <li> <strong> Challange 1: Modifying Files </strong>
