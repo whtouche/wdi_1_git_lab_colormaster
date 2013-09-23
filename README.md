@@ -22,8 +22,8 @@ you can fix this. </p>
 <li>Start from the color-master-quiz directory (you should be dropped into it automatically). Now to repair the damage:</li>
 <li> #### Challange 1: Modifying Files ####
 	  <p>In each of the folders named after a color (ex. purple) there are some files. Somebody
-		has mischeviously erased the descriptions of each object! Fill in the names to complete this
-		challenge (all lower case).</p>
+		has mischeviously erased the descriptions of each object! Change into each color directory and
+		open each file to fill in the names of each object and complete this challenge (all lower case).</p>
 		<ul>
 			<li>[ ] Fill in the blank in plum.txt in the purple directory</li>
 			<li>[ ] Fill in the blank tree.txt in green directory</li>
