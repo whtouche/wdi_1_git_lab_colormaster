@@ -1,10 +1,11 @@
->			__  .___________.__     _______.        ___           ______      __    __   __   ________   __  
+>		  __  .___________.__     _______.        ___           ______      __    __   __   ________   __  
 >		 |  | |           (_ )   /       |       /   \         /  __  \    |  |  |  | |  | |       /  |  | 
 >		 |  | `---|  |----`|/   |   (----`      /  ^  \       |  |  |  |   |  |  |  | |  | `---/  /   |  | 
 >		 |  |     |  |           \   \         /  /_\  \      |  |  |  |   |  |  |  | |  |    /  /    |  | 
 >		 |  |     |  |       .----)   |       /  _____  \     |  `--'  '--.|  `--'  | |  |   /  /----.|__| 
 >		 |__|     |__|       |_______/       /__/     \__\     \_____\_____\\______/  |__|  /________|(__) 
 
+<<<<<<< HEAD
 This quiz will test, and help you better understand, the flow of control in bash and git. It's designed to 
 cover all of the commands we learned in class. If you find yourself getting stuck on a certain step, let 
 an instructor know! 
@@ -26,4 +27,4 @@ Here's some help:
 	[ ] Fix files in purple directory
 	[ ] Fix files in green directory
 	[ ] Fix files in the red folder
-3. 
+3.
