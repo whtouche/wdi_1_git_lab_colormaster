@@ -14,20 +14,18 @@ far, far away from your directories, and while you were been gone, someone has w
 Colors have been de-sorted, mis-sorted, and entire directories are missing! It's a massacre! Luckily,
 you can fix this. </p>
 
+### Here's what the quiz filesystem looks like 
+
+>     |
+>     |
+>   --------------------------
+>   |       |        |       |
+> green   purple    red    unsorted
+
 ### Here's some help: ###
 <ol>
 <li>Fork this repo.</li>
-<li><p>Clone your newly forked repo to your local machine (from whatever folder you store your code in).</p>
-	You should get a filesystem that looks something like:
-
-</li>
-    color-master-quiz
-    >     |
-    >     |
-    >   --------------------------
-    >   |       |        |       |
-    > green   purple    red    unsorted
-
+<li>Clone your newly forked repo to your local machine (from whatever folder you store your code in).</li>
 <li>Change into this newly cloned directory. You will be prompted if you want to continue. Type 'y' and hit enter.</li>
 <li>Start from the color-master-quiz directory (you should be dropped into it automatically). Now to repair the damage:</li>
 <li> <strong> Challange 1: Modifying Files </strong>
