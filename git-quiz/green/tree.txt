@@ -1,3 +1,0 @@
-Remove this line so that the text below is the only thing in the file!
-
-I'm a Tree!
