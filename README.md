@@ -20,7 +20,7 @@ you can fix this. </p>
 <li>Clone your newly forked repo to your local machine (from whatever folder you store your code in).</li>
 <li>Change into this newly cloned directory. You will be prompted if you want to continue. Type 'y' and hit enter.</li>
 <li>Start from the color-master-quiz directory (you should be dropped into it automatically). Now to repair the damage:</li>
-<li> #### Challange 1: Modifying Files ####
+<li> <strong> Challange 1: Modifying Files </strong>
 	  <p>In each of the folders named after a color (ex. purple) there are some files. Somebody
 		has mischeviously erased the descriptions of each object! Change into each color directory and
 		open each file to fill in the names of each object and complete this challenge (all lower case).</p>
@@ -29,5 +29,15 @@ you can fix this. </p>
 			<li>[ ] Fill in the blank tree.txt in green directory</li>
 			<li>[ ] Fill in the blanks in apple.txt and firetruck.txt in the red directory</li>
 		</ul>
+</li>
+
+<li> <strong> Challenge 2: Creating Files </strong>
+	<p> Follow the directions for each of the tasks below </p>
+		<ul>
+			<li>[ ] In your purple directory, create a file called grape.txt In this new file,
+				paste the following: I'm a grape!
+			</li>
+		</ul>
+
 </li>
 </ol>
