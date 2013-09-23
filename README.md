@@ -28,7 +28,7 @@ you can fix this. </p>
 2. Clone your newly forked repo to your local machine (from whatever folder you store your code in).
 3. Change into this newly cloned directory. You will be prompted if you want to continue. Type 'y' and hit enter.
 4. Start from the color-master-quiz directory (you should be dropped into it automatically). Now to repair the damage:
-5. <strong> Challange 1: Modifying Files </strong>
+5. <strong> Challange 1: Fix Up Your Items (Modifying Files Around) </strong>
 
     In each of the folders named after a color (ex. purple) there are some files. Somebody has mischeviously erased the descriptions of each object! Change into each color directory and open each file to fill in the names of each object and complete this challenge (all lower case).        
     
@@ -38,7 +38,7 @@ you can fix this. </p>
     
     a. Fill in the blanks in apple.txt and firetruck.txt in the red director
     
-6.  <strong> Challenge 2: Creating Directories and Files </strong>
+6.  <strong> Challenge 2: Add Your Souvenirs from Alaska (Creating Directories and Files) </strong>
 
      Follow the directions for each of the tasks below
 
@@ -48,15 +48,15 @@ you can fix this. </p>
         
         > grape.txt
      
-    c. In grape.txt, add the text:
+       in this file insert the text:
 
         > I'm a grape!
         
-    d. In your red directory, create a file called 
+    b. In your red directory, create a file called 
        
         > firetruck.txt
      
-    e. In firetruck.txt file insert this firetruck:
+       in firetruck.txt file insert this firetruck:
 
         >     _,..=xxxxxxxxxxxx,
         >     /L_Y.-"""""""""`,--n.
@@ -64,6 +64,18 @@ you can fix this. </p>
         >     |/ _ ''_ " " ||[ -_ 4 |
         >     '-(_)-(_)----'v'-(_)--'
 
-7. <strong> Challenge 3: Moving Files Around </strong>
+7. <strong> Challenge 3: Organize Your Items (Moving Files Around) </strong>
+
     a. Change into your unsorted directory. Inside, you'll see a few items that have been removed from their folders. Go ahead and move them into their correct folders. 
-        * hint: remember the command to list all of the files in a directory? Maybe whoever did this added a '.' before a file to hide it in the unsorted folder.
+        * hint: remember the command to list all of the files in a directory? Maybe whoever did this added a '.' before a file to hide it in the unsorted folder. 
+        
+    b. Once you've finished with the above task, take a look in the red folder at 
+    >    apple.txt 
+
+    Your Colormaster eyes notice that this is no red apple, it's GREEN! move it to the correct folder.  
+    
+8. <strong> Challenge 4: Take Out The Trash (Removing Files)</strong>
+
+    a. As you gaze upon your glorious work, colors gleaming under the blueish light of your computer screen, you notice some intruders. A few homeless .html files are lurking in the filesystem. Use your knowledge of the command line to get rid of them.
+       
+       * hint: If you remember, there is a way to remove multiple .html files from a folder at once. 
