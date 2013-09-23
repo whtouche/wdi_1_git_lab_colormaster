@@ -5,12 +5,13 @@
 >		 |  |     |  |       .----)   |       /  _____  \     |  `--'  '--.|  `--'  | |  |   /  /----.|__| 
 >		 |__|     |__|       |_______/       /__/     \__\     \_____\_____\\______/  |__|  /________|(__) 
 
-<<<<<<< HEAD
+# Colormaster Quiz #
+
 This quiz will test, and help you better understand, the flow of control in bash and git. It's designed to 
 cover all of the commands we learned in class. If you find yourself getting stuck on a certain step, let 
 an instructor know! 
 
-# Colormaster Quiz #
+## Some Background ##
 
 You are the colormaster. You know your colors better than anybody else in the world, which is really how you came
 to be the colormaster in the first place. You're basically the Gandalf of colors is what we're saying. As the colormaster
