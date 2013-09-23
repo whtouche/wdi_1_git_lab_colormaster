@@ -82,7 +82,7 @@ you can fix this. </p>
     
 8. <strong> Challenge 4: Take Out The Trash (Removing Files)</strong>
 
-    a. Remove the unsorted folder. Than nasty vandal must have brought it with him to ruin your work!
+    a. Remove the now empty unsorted folder. Than nasty vandal must have brought it with him to ruin your work!
 
     b. As you gaze upon your glorious work, colors gleaming under the blueish light of your computer screen at 4:00 in the morning, you notice some intruders. A few homeless .html files are lurking in the filesystem; the vandal must have littered them there. Use your knowledge of the command line to get rid of them.
        
