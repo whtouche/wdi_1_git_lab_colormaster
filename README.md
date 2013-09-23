@@ -16,11 +16,11 @@ you can fix this. </p>
 
 ### Here's what the quiz filesystem looks like 
 
->     |
->     |
->   --------------------------
->   |       |        |       |
-> green   purple    red    unsorted
+>         |
+>         |
+>       --------------------------
+>       |       |        |       |
+>     green   purple    red    unsorted
 
 ### Here's some help: ###
 <ol>
@@ -44,11 +44,11 @@ you can fix this. </p>
 		<ul>
 			<li><p>[ ] In your purple directory, create a file called </p>
 
-				<p>grape.txt</p>
+				>>grape.txt
 
 				<p>In this new file, paste the following: </p>
 
-				<p>I'm a grape!</p>
+				>>I'm a grape!
 
 			</li>
 		</ul>
