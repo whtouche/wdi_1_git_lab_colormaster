@@ -5,3 +5,4 @@ else
 rvm --create use  "ruby-2.0.0@quiz_one"    
 fi
 bundle
+
