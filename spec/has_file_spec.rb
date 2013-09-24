@@ -1,7 +1,7 @@
 require 'fileutils'
 require_relative 'spec_helper'
 
-
+=begin
 describe "Test filesystem" do
   %w{ green purple red yellow}.each do |color|
     it "should have directory named #{color}" do
@@ -25,3 +25,4 @@ describe "Test filesystem" do
 end
 
 
+=end
