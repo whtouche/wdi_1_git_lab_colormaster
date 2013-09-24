@@ -1,10 +1,6 @@
 require_relative 'spec_helper'
 
 describe "Challenge 3" do
-  it "should not have a unsorted directory" do
-      File.directory?("color-master-quiz/unsorted").should be_false
-  end
-
   # ruby.txt, school_bus.txt
   it 'should have the file ruby.txt in the red directory' do
     File.ftype("color-master-quiz/red/ruby.txt").should == "file"
