@@ -17,4 +17,9 @@ describe "Challenge 3" do
   it 'should have the file .hiding_turtle.txt in the green directory' do
     File.ftype("color-master-quiz/green/.hiding_turtle.txt").should == "file"
   end
+
+  it 'should have the file apple.txt in the green directory' do 
+    File.ftype('color-master-quiz/green/apple.txt').should == 'file'
+  end
+  
 end
