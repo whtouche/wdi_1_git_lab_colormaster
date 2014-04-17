@@ -11,6 +11,4 @@ RSpec.configure do |config|
   config.tty = true
   # Use the specified formatter
   config.formatter = :documentation  # :progress, :html, :textmate
-  # immediately stop running upon first failure
-  config.fail_fast = true
 end
